@@ -1,4 +1,27 @@
 {
-	"admob": 0,
-	"cloud": 100
+	"find_banner": {
+		"admob":0,
+		"cloud":100
+	},
+	"bookshelf_banner": {
+		"admob":0,
+		"cloud":100
+	},
+	"read_banner": {
+		"admob":0,
+		"cloud":100
+	},
+	"chapter_end": {
+		"admob":0,
+		"cloud":100
+	},
+	"chapter_chaye": {
+		"admob":100,
+		"cloud":0
+	},
+	"chapter_reward_video": {
+		"admob":100,
+		"cloud":0
+	}
+	
 }
