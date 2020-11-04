@@ -8,8 +8,8 @@
 		"cloud":100
 	},
 	"read_banner": {
-		"admob":50,
-		"cloud":50
+		"admob":100,
+		"cloud":0
 	},
 	"chapter_end": {
 		"admob":0,
