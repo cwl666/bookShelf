@@ -1,12 +1,12 @@
 {
-	"ad_switch": 0,
+	"ad_switch": 1,
 	"find_banner": {
-		"admob": 0,
-		"cloud": 100
+		"admob": 100,
+		"cloud": 0
 	},
 	"bookshelf_banner": {
-		"admob": 0,
-		"cloud": 100
+		"admob": 100,
+		"cloud": 0
 	},
 	"read_banner": {
 		"admob": 100,
