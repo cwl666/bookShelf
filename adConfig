@@ -22,6 +22,8 @@
 	"chapter_reward_video": {
 		"admob":100,
 		"cloud":0
-	}
+	},
+	"to_new_app":0,
+	"packagename":""
 	
 }
