@@ -1,7 +1,7 @@
 {
 	"ad_switch": 0,
 	"to_new_app":0,
-	"packagename":"com.freebook.juzi",
+	"packagename":"com.cwl.bookshelf3",
 	"find_banner": {
 		"admob": 100,
 		"cloud": 0
