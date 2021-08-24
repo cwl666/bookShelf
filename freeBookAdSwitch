@@ -1,5 +1,5 @@
 {
-	"ad_switch": 0,
+	"ad_switch": 1,
 	"to_new_app":0,
 	"packagename":"com.cwl.bookshelf3",
 	"find_banner": {
