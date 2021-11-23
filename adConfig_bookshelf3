@@ -2,7 +2,7 @@
 	"ad_switch":0,
 	"to_new_app":0,
 	"packagename":"com.freebook.juzi",
-	"ad_privider":0,
+	"ad_privider":1,
 	"find_banner": {
 		"admob":0,
 		"cloud":100
