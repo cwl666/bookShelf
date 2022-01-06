@@ -1,6 +1,6 @@
 {
 	"ad_switch": 0,
-	"to_new_app":0,
+	"to_new_app":1,
 	"packagename":"com.cwl.bookshelf3",
 	"find_banner": {
 		"admob": 100,
