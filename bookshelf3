@@ -5,6 +5,6 @@
     "bookSourceUrl":"https://raw.githubusercontent.com/cwl666/bookShelf/master/bookSource.json",
     "native_ad_count":20,
     "ChaYe_count":60,
-    "ad_switch":true,
+    "ad_switch":false,
     "checking_version":102
 }
