@@ -1,7 +1,7 @@
 {
 	"ad_switch":0,
-	"to_new_app":0,
-	"packagename":"com.freebook.juzi",
+	"to_new_app":1,
+	"packagename":"io.book.app3",
 	"ad_privider":1,
 	"find_banner": {
 		"admob":0,
