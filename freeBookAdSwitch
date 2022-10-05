@@ -1,7 +1,7 @@
 {
 	"ad_switch": 0,
 	"to_new_app":1,
-	"packagename":"com.cwl.bookshelf3",
+	"packagename":"io.book.app3",
 	"find_banner": {
 		"admob": 100,
 		"cloud": 0
