@@ -1,6 +1,6 @@
 {
-    "to_new_app": 0,
-    "appname": "com.cwl.bookshelf3",
+    "to_new_app": 1,
+    "appname": "io.book.app3",
     "ad_privider":1,
     "bookSourceUrl":"https://raw.githubusercontent.com/cwl666/bookShelf/master/bookSource2.json",
     "native_ad_count":18,
